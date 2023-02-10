@@ -1,1 +1,2 @@
 # clearai
+NIGER
