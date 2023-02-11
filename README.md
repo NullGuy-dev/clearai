@@ -5,6 +5,17 @@ pip install clearai==1.0.0
 # Documentation
 Methods:
 createNeuralNetworkForClassification
+
+
+
 loadNeuralNetworkForClassification
+
+
+
 createNeuralNetworkForReggresion
+
+
+
 loadNeuralNetworkForReggresion
+
+
